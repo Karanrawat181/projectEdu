@@ -29,11 +29,11 @@ b(xyz);
 
 //__________________Named function expression
 
-// var b = function xyz(){
+var b = function xyz(){
 
-//     console.log("b is called");
+    console.log("b is called");
 
-// };
+};
 
 
 // first class function
